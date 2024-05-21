@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import '../classes/Machine.dart';
 
 class AddResourcesPage extends StatefulWidget {

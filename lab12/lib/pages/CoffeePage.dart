@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import '../classes/Machine.dart';
 import '../classes/ICoffee.dart';
 import '../classes/Coffee.dart';
+import 'package:flutter/material.dart';
+import '../classes/Machine.dart';
+import '../classes/ICoffee.dart';
+import '../classes/Coffee.dart';
 import '../classes/Enums.dart';
 
 class CoffeePage extends StatefulWidget {

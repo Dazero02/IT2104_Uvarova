@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import '../classes/Machine.dart';
+import '../classes/Resources.dart';
+import 'CoffeePage.dart';
+import 'AddResourcesPage.dart';
 
 class HomePage extends StatelessWidget {
   final CoffeeMachine coffeeMachine = CoffeeMachine(Resources(500, 500, 500, 0));
